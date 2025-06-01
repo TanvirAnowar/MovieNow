@@ -1,2 +1,0 @@
-# MovieNow
-Movie mobile app
